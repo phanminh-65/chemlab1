@@ -42,7 +42,7 @@ plt.axhline(
 # Labels and title
 plt.xlabel("Measurement")
 plt.ylabel("Density (g/mL)")
-plt.title("Density of Water at 25°C Obtained with the Graduated Cylinder")
+plt.title("Density of Water at 22.5°C Obtained with the Graduated Cylinder")
 
 # X-axis labels
 plt.xticks(measurements)
